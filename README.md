@@ -39,24 +39,20 @@
 
 ## 🚀 Proyectos Destacados  
 
-### 1. To-Do List FullStack  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge)](https://tudemo.com) | [![GitHub](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AguilarAlvarez/todo-list-fullstack)  
-Aplicación de tareas con **React, Node.js y MySQL**. Incluye:  
+### 1. Project GitHub Client 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge)](https://tudemo.com) | [![GitHub](https://github.com/AguilarAlvarez/project-github-client)  
+Aplicación de Recopilacion de projectos con **React,Javascript,TypeScript,Next js**. Incluye:  
 ✔ CRUD completo  
-✔ Autenticación JWT  
 ✔ Diseño responsive  
+✔ Juego Laberinto 
 
-### 2. Buscador de Países  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge)](https://tudemo.com) | [![GitHub](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AguilarAlvarez/countries-api)  
-Consume la API de REST Countries con:  
-✔ Filtros por región  
-✔ Dark/Light mode  
-✔ Gráficos con Chart.js  
+### 2.Project GitHub Server   
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge)](https://tudemo.com) | [![GitHub](https://github.com/AguilarAlvarez/project-github-server)  
+Creacion y manjo de API que consume el Poject Github Client con **Node.js, Express,Neon db**  
 
 ---
 
 ## 📌 En Qué Estoy Trabajando Actualmente  
-- **Desarrollando un clon de Spotify** con Next.js y Tailwind CSS  
 - **Aprendiendo AWS** para certificarme como Cloud Practitioner  
 
 ---
