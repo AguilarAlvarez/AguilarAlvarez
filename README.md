@@ -40,14 +40,16 @@
 ## 🚀 Proyectos Destacados  
 
 ### 1. Project GitHub Client 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge)](https://tudemo.com) | [![GitHub](https://github.com/AguilarAlvarez/project-github-client)  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge)](https://tudemo.com) | [![GitHub](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AguilarAlvarez/project-github-client)
+
 Aplicación de Recopilacion de projectos con **React,Javascript,TypeScript,Next js**. Incluye:  
 ✔ CRUD completo  
 ✔ Diseño responsive  
 ✔ Juego Laberinto 
 
 ### 2.Project GitHub Server   
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge)](https://tudemo.com) | [![GitHub](https://github.com/AguilarAlvarez/project-github-server)  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge)](https://tudemo.com) | [![GitHub](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AguilarAlvarez/project-github-server) 
+
 Creacion y manjo de API que consume el Poject Github Client con **Node.js, Express,Neon db**  
 
 ---
