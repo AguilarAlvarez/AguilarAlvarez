@@ -40,7 +40,7 @@
 ## 🚀 Proyectos Destacados  
 
 ### 1. Project GitHub Client 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge)](https://tudemo.com) | [![GitHub](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AguilarAlvarez/project-github-client)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge)](https://project-github-client.netlify.app) | [![GitHub](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AguilarAlvarez/project-github-client)
 
 Aplicación de Recopilacion de projectos con **React,Javascript,TypeScript,Next js**. Incluye:  
 ✔ CRUD completo  
